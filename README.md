@@ -12,5 +12,5 @@ More specifically, I had to add and customize the two `@media` sections in the
 Result can be viewed <a target="_blank" href="http://bengudro.insomnia247.nl/code/good-natured/">here</a>.
 
 <a target="_blank" href="http://bengudro.insomnia247.nl/code/good-natured/">
-![An image of the .PSD provided](good-natured.png?raw=true "An image of the .PSD provided")
+![an image of the .psd provided](good-natured.png?raw=true "an image of the .psd provided")
 </a>
